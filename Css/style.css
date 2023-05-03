@@ -1,11 +1,10 @@
 *{
-    margin: 0;
-    padding: 0;
-    background-color: black;
+    
+    
 }
 
 .center{
-display: flex;
+
 }
 
 .logo{
@@ -17,7 +16,7 @@ display: flex;
 }
 
 .paragrafo__01{
-color: aliceblue;
+
 }
 
 .paragrafo__01__titulo{
@@ -33,5 +32,5 @@ color: aliceblue;
 }
 
 .contato_imagem{
-    
+
 }
